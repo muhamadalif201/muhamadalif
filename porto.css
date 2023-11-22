@@ -1,6 +1,5 @@
 * {
     margin: 0;
-    text-decoration: none;
     padding: 0;
 }
 
@@ -17,6 +16,7 @@ nav li {
     list-style: none;
     float: right;
     padding: 30px 40px;
+    text-decoration: none;
 }
 
 nav li:hover {
