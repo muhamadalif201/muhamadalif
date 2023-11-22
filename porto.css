@@ -135,7 +135,8 @@ h1,h3 {
     nav {
       float: none;
       width: 100%;
-      background-color: white;
+      background-color: rgb(0,212,255);
+      background: linear-gradient(90deg, rgba(0,212,255,1) 23%, rgba(251,251,255,1) 100%, rgba(141,81,193,1) 100%, rgba(255,255,255,1) 100%);;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
       padding: 10px;
     }
