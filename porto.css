@@ -25,6 +25,7 @@ nav li:hover {
     background-color: whitesmoke;
     color: rgb(6, 6, 30);
     opacity: 0.7;
+    text-decoration: none;
 }
 
 .header-right {
