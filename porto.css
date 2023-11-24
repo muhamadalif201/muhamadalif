@@ -165,7 +165,13 @@ h1,h3 {
       width: 250px;
       height: 250px;
       margin: 0 auto;
-      border-radius: 150px;
+      border-radius: 70px;
+    }
+
+    .div img {
+      border-radius: 50px 70px 50px;
+      height: 50px;
+      width: 50px;
     }
   
     .date, .date1, .date2 {
